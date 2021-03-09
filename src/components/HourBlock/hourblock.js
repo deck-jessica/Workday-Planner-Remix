@@ -5,12 +5,9 @@ function HourBlock(props) {
   return (
     <div className="row">
         <div className="col-1 hour">{props.hour}</div>
-        <div className="col-10 description">
-            {props.task}
-        </div>
-        <button onClick={() => props.handleSaveTask(props.id)} className="saveTask">
-        Save
-      </button>
+        <input className="col-10 description" id={props.id} type="text">
+        </input>
+        <button onClick={() => props.handleSaveTask(props)} className="col-1 btn">Save</button>
     </div>
   );
 }
