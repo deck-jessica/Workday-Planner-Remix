@@ -12,7 +12,11 @@ class App extends Component {
   //   hour
   // };
 
-  handleSaveTask(props) {
+  // handleSaveTask(props) {
+
+  // };
+
+  handleFormSubmit(props){
     let taskEntry = document.getElementById(props.id).task;
     localStorage.setItem(props.id, taskEntry);
   };
