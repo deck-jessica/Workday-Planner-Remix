@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Workday-Planner-Remix/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Workday-Planner-Remix/static/js/main.52801f96.chunk.js",
-    "main.js.map": "/Workday-Planner-Remix/static/js/main.52801f96.chunk.js.map",
+    "main.css": "/Workday-Planner-Remix/static/css/main.7aca24c2.chunk.css",
+    "main.js": "/Workday-Planner-Remix/static/js/main.25f82b9d.chunk.js",
+    "main.js.map": "/Workday-Planner-Remix/static/js/main.25f82b9d.chunk.js.map",
     "runtime-main.js": "/Workday-Planner-Remix/static/js/runtime-main.7b4405ee.js",
     "runtime-main.js.map": "/Workday-Planner-Remix/static/js/runtime-main.7b4405ee.js.map",
     "static/css/2.fabbef47.chunk.css": "/Workday-Planner-Remix/static/css/2.fabbef47.chunk.css",
-    "static/js/2.7502ad30.chunk.js": "/Workday-Planner-Remix/static/js/2.7502ad30.chunk.js",
-    "static/js/2.7502ad30.chunk.js.map": "/Workday-Planner-Remix/static/js/2.7502ad30.chunk.js.map",
+    "static/js/2.5d41994b.chunk.js": "/Workday-Planner-Remix/static/js/2.5d41994b.chunk.js",
+    "static/js/2.5d41994b.chunk.js.map": "/Workday-Planner-Remix/static/js/2.5d41994b.chunk.js.map",
     "index.html": "/Workday-Planner-Remix/index.html",
     "static/css/2.fabbef47.chunk.css.map": "/Workday-Planner-Remix/static/css/2.fabbef47.chunk.css.map",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Workday-Planner-Remix/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.7502ad30.chunk.js.LICENSE.txt": "/Workday-Planner-Remix/static/js/2.7502ad30.chunk.js.LICENSE.txt"
+    "static/css/main.7aca24c2.chunk.css.map": "/Workday-Planner-Remix/static/css/main.7aca24c2.chunk.css.map",
+    "static/js/2.5d41994b.chunk.js.LICENSE.txt": "/Workday-Planner-Remix/static/js/2.5d41994b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7b4405ee.js",
     "static/css/2.fabbef47.chunk.css",
-    "static/js/2.7502ad30.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.52801f96.chunk.js"
+    "static/js/2.5d41994b.chunk.js",
+    "static/css/main.7aca24c2.chunk.css",
+    "static/js/main.25f82b9d.chunk.js"
   ]
 }
